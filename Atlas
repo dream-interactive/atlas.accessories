@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T12:27:25.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.68" etag="Ud5fTj328pNWZVqK7t9s" version="13.7.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-05T17:13:48.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.68" etag="Pzn0TeflPg5uj6JLwQUV" version="13.7.7" type="github" pages="7">
   <diagram id="QHyQke_2HhBj1bPijsvQ" name="Atlas">
     <mxGraphModel dx="3017" dy="2546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RLt-pu_-m1-QQFtyNwqJ" name="scrum/kanban">
-    <mxGraphModel dx="2126" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IIfinmclTql_U5I9Wsgj-0" />
         <mxCell id="IIfinmclTql_U5I9Wsgj-1" parent="IIfinmclTql_U5I9Wsgj-0" />
@@ -696,10 +696,10 @@
         <mxCell id="hT-r_94v30WwOmaiL_3N-24" value="OWNER" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hT-r_94v30WwOmaiL_3N-9" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hT-r_94v30WwOmaiL_3N-29" value="ADMIN" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hT-r_94v30WwOmaiL_3N-9" vertex="1">
+        <mxCell id="hT-r_94v30WwOmaiL_3N-29" value="MANAGER" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hT-r_94v30WwOmaiL_3N-9" vertex="1">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hT-r_94v30WwOmaiL_3N-30" value="MODER" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hT-r_94v30WwOmaiL_3N-9" vertex="1">
+        <mxCell id="hT-r_94v30WwOmaiL_3N-30" value="COLLABORATOR" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hT-r_94v30WwOmaiL_3N-9" vertex="1">
           <mxGeometry y="130" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="hT-r_94v30WwOmaiL_3N-31" value="VISITOR" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hT-r_94v30WwOmaiL_3N-9" vertex="1">
