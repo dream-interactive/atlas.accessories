@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T17:10:22.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="Bxlffd0JhlYaheUW4dx-" version="14.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-18T17:26:56.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="3PFkc6N0EXh2VEk0FOxW" version="14.2.4" type="github" pages="4">
   <diagram id="AsdTAp0-beocdyNKe68D" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OdEFdEVgLtrKKa_OLo8D" name="Page-2">
-    <mxGraphModel dx="2374" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Or2N9BworfRn2FZhgyKq-0" />
         <mxCell id="Or2N9BworfRn2FZhgyKq-1" parent="Or2N9BworfRn2FZhgyKq-0" />
@@ -593,7 +593,7 @@
           <mxGeometry x="560" y="320" width="250" height="230" as="geometry" />
         </mxCell>
         <mxCell id="tg9PR3TlVAciVc_a9dBz-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Світлодіодна стрічка&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="mSe_HqTivAh3tJxmAk_5-1" vertex="1">
-          <mxGeometry x="1134" y="374" width="250" height="230" as="geometry" />
+          <mxGeometry x="1135" y="380" width="250" height="230" as="geometry" />
         </mxCell>
         <mxCell id="tg9PR3TlVAciVc_a9dBz-3" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Блок живлення&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="mSe_HqTivAh3tJxmAk_5-1" vertex="1">
           <mxGeometry x="560" y="650" width="250" height="230" as="geometry" />
@@ -604,14 +604,10 @@
             <mxPoint x="940" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tg9PR3TlVAciVc_a9dBz-6" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="mSe_HqTivAh3tJxmAk_5-1" source="tg9PR3TlVAciVc_a9dBz-3" target="tg9PR3TlVAciVc_a9dBz-2" edge="1">
+        <mxCell id="tg9PR3TlVAciVc_a9dBz-6" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;jumpSize=1;rounded=0;" parent="mSe_HqTivAh3tJxmAk_5-1" source="tg9PR3TlVAciVc_a9dBz-3" target="tg9PR3TlVAciVc_a9dBz-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="610" as="sourcePoint" />
             <mxPoint x="940" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="921" y="765" />
-              <mxPoint x="921" y="547" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
