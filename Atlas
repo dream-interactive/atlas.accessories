@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T14:50:44.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74" etag="PeNZ-UdBpPudr0fLqoSx" version="14.4.3" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-02-27T14:58:46.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74" etag="wm7LWjBMIW6Vjg4wLzCM" version="14.4.3" type="github" pages="14">
   <diagram id="QHyQke_2HhBj1bPijsvQ" name="Atlas">
     <mxGraphModel dx="665" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1291,7 +1291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gYDizzG68aanW8aqIfIX" name="RxJS_maps">
-    <mxGraphModel dx="1900" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ltMm5v2XhLSOr8NKUj-w-0" />
         <mxCell id="ltMm5v2XhLSOr8NKUj-w-1" parent="ltMm5v2XhLSOr8NKUj-w-0" />
@@ -1326,36 +1326,36 @@
           <mxGeometry x="485" y="120" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KprEVFHYXBnj-MCpearl-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3-us-west-1.amazonaws.com/angular-university/blog-images/rxjs-map-operators/06-switchMap-2.png;" vertex="1" parent="ltMm5v2XhLSOr8NKUj-w-1">
-          <mxGeometry x="850" y="261.6" width="340" height="196.81" as="geometry" />
+          <mxGeometry x="49" y="741.6" width="340" height="196.81" as="geometry" />
         </mxCell>
         <mxCell id="KprEVFHYXBnj-MCpearl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ltMm5v2XhLSOr8NKUj-w-1" source="KprEVFHYXBnj-MCpearl-27" target="KprEVFHYXBnj-MCpearl-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KprEVFHYXBnj-MCpearl-27" value="&lt;span style=&quot;font-size: 20px&quot;&gt;switchMap&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ltMm5v2XhLSOr8NKUj-w-1">
-          <mxGeometry x="960" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="159" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KprEVFHYXBnj-MCpearl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ltMm5v2XhLSOr8NKUj-w-1" source="KprEVFHYXBnj-MCpearl-28" target="KprEVFHYXBnj-MCpearl-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KprEVFHYXBnj-MCpearl-28" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Выполняет внутренний Observable сразу, как&amp;nbsp; только прейдет значение из внешнего, отписываясь от предыдущего невыполненого внутреннего&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="ltMm5v2XhLSOr8NKUj-w-1">
-          <mxGeometry x="888.75" y="120" width="262.5" height="110" as="geometry" />
+          <mxGeometry x="87.75" y="600" width="262.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KprEVFHYXBnj-MCpearl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ltMm5v2XhLSOr8NKUj-w-1" source="KprEVFHYXBnj-MCpearl-37" target="KprEVFHYXBnj-MCpearl-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KprEVFHYXBnj-MCpearl-37" value="&lt;span style=&quot;font-size: 20px&quot;&gt;exhaustMap&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ltMm5v2XhLSOr8NKUj-w-1">
-          <mxGeometry x="1360" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KprEVFHYXBnj-MCpearl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ltMm5v2XhLSOr8NKUj-w-1" source="KprEVFHYXBnj-MCpearl-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1420" y="261.6" as="targetPoint" />
+            <mxPoint x="619" y="741.6" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KprEVFHYXBnj-MCpearl-39" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Пропускает все внешние значения пока выполняется внутренний Oservable&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="ltMm5v2XhLSOr8NKUj-w-1">
-          <mxGeometry x="1288.75" y="120" width="262.5" height="80" as="geometry" />
+          <mxGeometry x="487.75" y="600" width="262.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KprEVFHYXBnj-MCpearl-45" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3-us-west-1.amazonaws.com/angular-university/blog-images/rxjs-map-operators/08-exhaustMap.png;" vertex="1" parent="ltMm5v2XhLSOr8NKUj-w-1">
-          <mxGeometry x="1250" y="264.5" width="330" height="191.02" as="geometry" />
+          <mxGeometry x="449" y="744.5" width="330" height="191.02" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
