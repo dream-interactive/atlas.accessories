@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T09:04:24.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46" etag="pPiMdx7saGYLg9egA-Cd" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T10:53:33.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46" etag="n8g-XDiIOYq4iSuiwkoh" version="14.6.1" type="github">
   <diagram id="jybOTINOecUvO_8TdCLg" name="Page-1">
-    <mxGraphModel dx="1204" dy="706" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="632" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,6 +181,38 @@
         </mxCell>
         <mxCell id="zZmFnpAFdnhElFVp4fmw-24" value="Ретроспектива&lt;br&gt;спринту" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="396" y="678" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZmFnpAFdnhElFVp4fmw-43" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Задачі&amp;nbsp;&lt;br&gt;які необхідно зробити&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="43" y="1399" width="168" height="353" as="geometry" />
+        </mxCell>
+        <mxCell id="zZmFnpAFdnhElFVp4fmw-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1" source="zZmFnpAFdnhElFVp4fmw-45" target="zZmFnpAFdnhElFVp4fmw-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZmFnpAFdnhElFVp4fmw-45" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Задачі&amp;nbsp;&lt;br&gt;які необхідно зробити&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="43" y="1399" width="168" height="353" as="geometry" />
+        </mxCell>
+        <mxCell id="zZmFnpAFdnhElFVp4fmw-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1" source="zZmFnpAFdnhElFVp4fmw-46" target="zZmFnpAFdnhElFVp4fmw-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZmFnpAFdnhElFVp4fmw-46" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Задачі&amp;nbsp;&lt;br&gt;які виконуються&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1400" width="168" height="353" as="geometry" />
+        </mxCell>
+        <mxCell id="zZmFnpAFdnhElFVp4fmw-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1" source="zZmFnpAFdnhElFVp4fmw-47" target="zZmFnpAFdnhElFVp4fmw-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZmFnpAFdnhElFVp4fmw-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1" source="zZmFnpAFdnhElFVp4fmw-47" target="zZmFnpAFdnhElFVp4fmw-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="634" y="1840" />
+              <mxPoint x="127" y="1840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZmFnpAFdnhElFVp4fmw-47" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Задачі&amp;nbsp;&lt;br&gt;які перевіряються&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1400" width="168" height="353" as="geometry" />
+        </mxCell>
+        <mxCell id="zZmFnpAFdnhElFVp4fmw-48" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Виконані задачі&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1400" width="168" height="353" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
